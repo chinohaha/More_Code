@@ -1,3 +1,2 @@
 # More_Code
-Bits and pieces
-Any program
+Bits and pieces, any program
